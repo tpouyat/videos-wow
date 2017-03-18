@@ -1,0 +1,17 @@
+shared mechanics:
+breath
+aura => inside : stacking debuff that stuns for 30 sec at 10, split the group in 2
+
+ysondre:
+nightmare boom flower => spawns adds, have a player staying in - spot heal him
+dispel the root, and be spread out
+
+emeriss:
+debuff non dispellable, get out of other and spot heal
+adds need to be interrupted
+
+lethon:
+spirit adds that heal the shared health pool - so kill them
+
+terrob:
+pretty simple mechanics
