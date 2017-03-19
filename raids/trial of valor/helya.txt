@@ -1,0 +1,17 @@
+debuffs on tank
+adds => deal unavoidable damage
+fixating orbs => kite it away, spot heal
+dispel on tank instantly when right before breath and need for taunting
+tentacle needs to be soaked
+
+she disappears, loads of adds, loads of debuffs, follow dbm, organised movement.
+1. some rDPS to go deal dmg to front tentacles, 2 big adds to be sent in the back
+2. once they're dead, retreat to the left platform, cc the adds
+3. another 2 big adds to be tanked at the front right, ignore the minions
+4. do the same as 2. on the right platform
+
+when fixated, hug the walls (it's fine to take dmg), spot heal required
+you can even  go up and back down in a loop
+soak the purple stuff
+make sure to top up people for waves
+don't ignore the adds

@@ -1,0 +1,18 @@
+phase 1: hyrja and hymdall
+they need to reach 25% health at the same time
+but you can't cleave them so you have split the group in 2
+hyrja sends a beam, you need to be in it do split dmg (go into the middle of the room if targeted)
+hymdall sends a circle in melee that'll kill you
+runes => drag the add inside the rune.
+
+phase 2: odyn
+rune thing again
+stacking debuff on tank
+don't be hit by orbs or you'll be stunned
+unavoidable dmg from shattering spears
+
+phase 3: odyn 55%
+move out of the light
+debuffs that explode and give tornado - up against the wall
+tanks: when you get debuffed, move away from the boss but you'll take massive dmg so spot heal
+constant ticking raid dmg - it's like the enrage of the fight.
