@@ -1,0 +1,3 @@
+random wow favorites:
+
+level, zone, achievement, lore character, race-class-spec combination, food, drink, spell, trinket, mount, gem, fist weapon, wands, axe, quest (one individual quest, not a questline), tabard, pet, dungeon

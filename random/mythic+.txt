@@ -1,0 +1,43 @@
+communicate!!!
+dungeon guides on icy veins.
+failure-detection pylon.
+bring a resser.
+plan your cooldowns.
+spec to the situation.
+invisibility potions.
+don't forget use your utility.
+trash matters
+make the tank's life easier
+target fire
+every second really really counts.
+
+----
+
+be comfortable with spells (meaning what to do in which situations).
+know every threats and dangers in dungeons.
+class utility.
+observe the action in between healings.
+
+be as fast as possible.
+look afer your mana => look for any place to get out of combat and start drinking but still be useful, without stopping the group.
+don't be afraid of affixes, meaning => how does that change our gameplan.
+prepare for the worst
+
+----
+
+single player :
+	green => renewing mist, effuse, soothing mist
+	amber => enveloping mist, gift (5+), vivify or effuse
+	red => cocoon, the two teas, enveloping mist, gift, vivify
+
+party healing :
+	green => thunder focus tea, renewing mist, vivify, effuse
+	amber => essence font, chi burst, thunder focus tea, vivify
+	red => revival, chi-ji, mana tea, essence font, chi burst, thunder tea, vivify
+
+blanket raid :
+	green => thunder tea, renewing mist (1 on tank), vivify/effuse
+	amber => essence font, chi burst, thunder tea, vivify
+	red => DONT PANIC, revival, chi-ji, chi burst, thunder tea, vivify
+
+in downtime, 3 tiger palm and 1 blackout kick.
